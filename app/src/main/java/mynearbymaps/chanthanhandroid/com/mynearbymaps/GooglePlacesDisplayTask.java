@@ -49,6 +49,7 @@ public class GooglePlacesDisplayTask extends AsyncTask<Object,Integer,ArrayList<
 
     @Override
     protected void onPostExecute(ArrayList<Places> arrayList) {
+        googleMap.clear();
         if(arrayList == null)
             return;
         for (Places places: arrayList
