@@ -34,5 +34,5 @@ Những phi chức năng chưa thục hiện:
   - Material desgin
   - Tối ưu hoá tìm kiếm
 
-Link video demo: 
-Link apk: 
+- Link video demo: https://youtu.be/nfRyXyczysQ
+- Link apk: https://drive.google.com/file/d/0B3LMyXiOkQ7mRHVCUkZFaFNDS1k/view?usp=sharing
