@@ -3,7 +3,10 @@ no comment
 
 Thông tin cá nhân:
 
-
+Họ Tên: Quách Hà Ch?n Thành
+SÐT: 01863210265
+eMail: qhcthanh@gmail.com
+FB: https://www.facebook.com/chan.thanh.37
 
 WORK ASSIGNMENT –   MOBILE DEVELOPER FRESHER
 
